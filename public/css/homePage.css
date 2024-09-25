@@ -1,0 +1,26 @@
+.container-fluid{
+    background-image: url('https://th.bing.com/th/id/R.576e1825ab0a1eb6b47c9a94e8c41534?rik=lRPxaKPJ%2fqv77w&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fBlack-minimalist-minimalistic-HD-wallpapers.jpg&ehk=IQmXnwxsAInHeMSg4L%2fP%2bLlpasqCSioeYoERaFXVjJA%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    padding: 50px;
+    background-color: rgba(193, 185, 185, 0.204);
+}
+
+h1{
+    color: rgb(250, 249, 244);
+}
+
+body{
+    overflow: hidden;
+}
+h6{
+    color: rgba(127, 255, 212, 0.461);
+}
